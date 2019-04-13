@@ -2,7 +2,7 @@ Setting up a localhost/localserver:
 
 1. Make directory.
 
-2. Initiate gemfile which includes => "gem 'sinatra'"
+2. Initiate gemfile which includes => "gem 'sinatra'" => run "bundle install"
 
 3. Create a controller for the routing, in this example an app.rb.
 
