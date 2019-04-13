@@ -4,7 +4,7 @@
 
 2. Initiate gemfile which includes => "gem 'sinatra'" => run "bundle install".
 
-3. Create a controller for the routing, in this example an app.rb.
+3. Create a controller for the routing, in this example an 'app.rb'.
 
 4. Create a 'views' directory and inside of that create an 'erb' file.
 
