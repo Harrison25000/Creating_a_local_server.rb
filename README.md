@@ -1,4 +1,4 @@
-Setting up a localhost/localserver:
+## Setting up a localhost/local server:
 
 1. Make directory.
 
